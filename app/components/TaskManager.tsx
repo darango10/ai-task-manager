@@ -118,12 +118,12 @@ export function TaskManager() {
                   <p>Optimization opportunities detected:</p>
                   <ul className="list-disc list-inside">
                     <li>
-                      Group similar tasks: "Finalize Q4 strategy" and "Review
-                      team OKRs"
+                      Group similar tasks: &quot;Finalize Q4 strategy&quot; and
+                      &quot;Review team OKRs&quot;
                     </li>
                     <li>
-                      Critical task alert: "Prepare board presentation" requires
-                      immediate attention
+                      Critical task alert: &quot;Prepare board
+                      presentation&quot; requires immediate attention
                     </li>
                   </ul>
                 </div>
@@ -150,14 +150,15 @@ export function TaskManager() {
               title="AI Schedule Optimization"
               content={
                 <p>
-                  Based on your work patterns and task urgency, here's your
+                  Based on your work patterns and task urgency, here&apos;s your
                   optimized schedule:
                   <br />
-                  1. 9 AM - 11 AM: Work on "Prepare board presentation"
+                  1. 9 AM - 11 AM: Work on &quot;Prepare board
+                  presentation&quot;
                   <br />
-                  2. 1 PM - 3 PM: "Finalize Q4 strategy"
+                  2. 1 PM - 3 PM: &quot;Finalize Q4 strategy&quot;
                   <br />
-                  3. 4 PM - 5 PM: "Review team OKRs"
+                  3. 4 PM - 5 PM: &quot;Review team OKRs&quot;
                 </p>
               }
             />
@@ -174,7 +175,7 @@ export function TaskManager() {
                     ></div>
                   </div>
                   <p className="mt-2">
-                    Great job! You're 15% more productive than last week.
+                    Great job! You&apos;re 15% more productive than last week.
                   </p>
                 </div>
               }
